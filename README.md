@@ -13,5 +13,5 @@ The website is mainly made with php, Mysql, Html, Css, Javascript etc
 # ➢Registration Page
 ![Screenshot (95)](https://user-images.githubusercontent.com/93143666/187113873-56240e35-21e7-449b-9bbc-f103585eea73.png)
 
-# ➢Login Page
+# ➢Login Page:
 ![Screenshot (96)](https://user-images.githubusercontent.com/93143666/187114050-0d671ee2-9d93-4d26-b325-85f24dfcbee7.png)
