@@ -7,7 +7,7 @@ The website is mainly made with php, Mysql, Html, Css, Javascript.
 # Donation Campaigns:
 ![Screenshot (92)](https://user-images.githubusercontent.com/93143666/187113550-6e792fe2-85a7-4e3a-a65a-f01bfa22edda.png)
 
-# ➢Registration Page:
+# Registration Page:
 ![Screenshot (95)](https://user-images.githubusercontent.com/93143666/187113873-56240e35-21e7-449b-9bbc-f103585eea73.png)
 
 # ➢Login Page:
